@@ -1,0 +1,61 @@
+{
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "",
+        "appid": "",
+        "admobappid": "",
+        "interid": "",
+        "nativeid": "",
+        "bannerid": "",
+        "deskripsi_update": "",
+        "link_update": "",
+        "interval": 1,
+        "pengaturan_iklan":"0",
+        "startappid":"",
+        "version_app":0,
+        "fan_inter":"",
+        "fan_banner_native":"",
+        "fan_banner":"",
+        "id_inmobi":"",
+        "inmobi_inter":1234567789,
+        "inmobi_banner":1321232131
+
+        }
+    ],
+    
+    "More":
+    [
+  {
+  }
+],
+
+
+"Categories": [
+    {}
+  ],
+
+  "Data":
+[
+  {
+    "id":1,
+    "id_guide":"001",
+    "nama_cat":"Easy",
+    "judul":"INSPIRASIKU YAPEIM 2020",
+    "image":"https://zaupdate24.online/semakan/yapeim/yapeim1.jpg",
+    "link":"https://zaupdate24.online/semakan/yapeim/yapeim1.html",
+    "deskripsi":"Tahukah anda melalui Dana Inspirasi Malaysia (Inspirasiku) YaPEIM bagi tahun 2020, pelajar sekolah bakal menerima bantuan sehingga RM500 dan pelajar IPT pula sehingga RM1,000."
+  },
+  {
+    "id":2,
+     "id_guide":"002",
+    "nama_cat":"Easy",
+    "judul":"PERMOHONAN DANA INSPIRASI MALAYSIA",
+    "image":"https://zaupdate24.online/semakan/yapeim/yapeim1.jpg",
+    "link":"https://zaupdate24.online/semakan/yapeim/yapeim2.html",
+    "deskripsi":"Manakala bagi permohonan bantuan IPT boleh diisi boleh pelajar sendiri. Dan menariknya bantuan ini tidak dihadkan untuk seorang anak sahaja."
+  }
+
+]
+}
