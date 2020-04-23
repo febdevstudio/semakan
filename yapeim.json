@@ -2,7 +2,7 @@
     
     "Iklan": [
         {
-        "status": "0",
+        "status": "1",
         "link": "",
         "appid": "",
         "admobappid": "",
@@ -15,9 +15,9 @@
         "pengaturan_iklan":"3",
         "startappid":"",
         "version_app":0,
-        "fan_inter":"",
-        "fan_banner_native":"",
-        "fan_banner":"",
+        "fan_inter":"11140412112",
+        "fan_banner_native":"11140412112",
+        "fan_banner":"11140412112",
         "id_inmobi":"",
         "inmobi_inter":1234567789,
         "inmobi_banner":1321232131
