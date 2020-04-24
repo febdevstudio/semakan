@@ -57,7 +57,7 @@
     "judul":"PERMOHONAN DANA INSPIRASI MALAYSIA",
     "image":"https://zaupdate24.online/semakan/yapeim/yapeim1.jpg",
     "link":"https://zaupdate24.online/semakan/yapeim/yapeim2.html",
-    "deskripsi":"Bantuan ini tidak dihadkan untuk seorang anak sahaja."
+    "deskripsi":"Bantuan ini tidak dihadkan untuk seorang anak sahaja"
   },
   {
     "id":3,
@@ -75,7 +75,7 @@
     "judul":"Semakan BPN",
     "image":"https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
     "link":"https://zaupdate24.online/semakan/bpn/bpn2.html",
-    "deskripsi":"Secara asasnya BPN hanya untuk golongan B40 dan M40."
+    "deskripsi":"Secara asasnya BPN hanya untuk golongan B40 dan M40"
   },
   {
     "id":5,
@@ -84,7 +84,7 @@
     "judul":"Permohonan Baru BPN",
     "image":"https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
     "link":"https://zaupdate24.online/semakan/bpn/bpn3.html",
-    "deskripsi":"Permohonan baru / rayuan boleh dibuat di portal rasmi BPN bermula 1 April 2020."
+    "deskripsi":"Permohonan baru / rayuan boleh dibuat di portal rasmi BPN bermula 1 April 2020"
   },
   {
     "id":6,
@@ -93,7 +93,7 @@
     "judul":"Semakan eKasih 2020",
     "image":"https://zaupdate24.online/semakan/ekasih/semakanekasih.jpg",
     "link":"https://zaupdate24.online/semakan/ekasih/ekasih.html",
-    "deskripsi":"eKasih adalah sistem Bank Data Kemiskinan Nasional yang mengandungi maklumat mengenai kemiskinan."
+    "deskripsi":"eKasih adalah sistem Bank Data Kemiskinan Nasional yang"
   },
   {
     "id":7,
@@ -102,7 +102,7 @@
     "judul":"Semakan eKasih : Syarat Kelayakan dan Pendaftaran",
     "image":"https://zaupdate24.online/semakan/ekasih/semakanekasih.jpg",
     "link":"https://zaupdate24.online/semakan/ekasih/ekasih2.html",
-    "deskripsi":"Bagi memohon bantuan eKasih 2020, seseorang dikira layak apabila"
+    "deskripsi":""
   },
   {
     "id":8,
@@ -111,7 +111,7 @@
     "judul":"Semakan eKasih : Maklumat Yang Diperlukan",
     "image":"https://zaupdate24.online/semakan/ekasih/semakanekasih.jpg",
     "link":"https://zaupdate24.online/semakan/ekasih/ekasih3.html",
-    "deskripsi":"Untuk memohon eKasih 2020, pemohon perlu melengkapkan 9 komponen bagi Ketua Isi Rumah (KIR)"
+    "deskripsi":""
   }
 ]
 }
