@@ -12,7 +12,7 @@
         "deskripsi_update": "",
         "link_update": "",
         "interval": 1,
-        "pengaturan_iklan":"3",
+        "pengaturan_iklan":"1",
         "startappid":"",
         "version_app":1,
         "fan_inter":"2530348427243901_2530362067242537",
@@ -68,6 +68,15 @@
   {
     "id":4,
      "id_guide":"004",
+    "nama_cat":"Easy",
+    "judul":"Semakan BPN",
+    "image":"https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
+    "link":"https://zaupdate24.online/semakan/bpn/bpn2.html",
+    "deskripsi":"Secara asasnya BPN hanya untuk golongan B40 dan M40."
+  },
+  {
+    "id":5,
+     "id_guide":"005",
     "nama_cat":"Easy",
     "judul":"Permohonan Baru BPN",
     "image":"https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
