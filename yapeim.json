@@ -33,15 +33,17 @@
 
 
 "Categories": [
-    {}
+    {
+      "id": 1,
+      "nama_cat": "Semakan",
+      "gambar": "https://zaupdate24.online/semakan/SEMAKCATEGORY.jpg"
   ],
-
   "Data":
 [
   {
     "id":1,
     "id_guide":"001",
-    "nama_cat":"Easy",
+    "nama_cat":"Semakan",
     "judul":"INSPIRASIKU YAPEIM 2020",
     "image":"https://zaupdate24.online/semakan/yapeim/yapeim1.jpg",
     "link":"https://zaupdate24.online/semakan/yapeim/yapeim1.html",
@@ -50,7 +52,7 @@
   {
     "id":2,
      "id_guide":"002",
-    "nama_cat":"Easy",
+    "nama_cat":"Semakan",
     "judul":"PERMOHONAN DANA INSPIRASI MALAYSIA",
     "image":"https://zaupdate24.online/semakan/yapeim/yapeim1.jpg",
     "link":"https://zaupdate24.online/semakan/yapeim/yapeim2.html",
@@ -59,7 +61,7 @@
   {
     "id":3,
      "id_guide":"003",
-    "nama_cat":"Easy",
+    "nama_cat":"Semakan",
     "judul":"Semakan BPN",
     "image":"https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
     "link":"https://zaupdate24.online/semakan/bpn/bpn.html",
@@ -68,7 +70,7 @@
   {
     "id":4,
      "id_guide":"004",
-    "nama_cat":"Easy",
+    "nama_cat":"Semakan",
     "judul":"Semakan BPN",
     "image":"https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
     "link":"https://zaupdate24.online/semakan/bpn/bpn2.html",
@@ -77,7 +79,7 @@
   {
     "id":5,
      "id_guide":"005",
-    "nama_cat":"Easy",
+    "nama_cat":"Semakan",
     "judul":"Permohonan Baru BPN",
     "image":"https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
     "link":"https://zaupdate24.online/semakan/bpn/bpn3.html",
