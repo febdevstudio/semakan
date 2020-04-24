@@ -64,7 +64,15 @@
     "image":"https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
     "link":"https://zaupdate24.online/semakan/bpn/bpn.html",
     "deskripsi":"Semakan BPN, Permohonan Baru / Rayuan Bantuan Prihatin Nasional"
+  },
+  {
+    "id":4,
+     "id_guide":"004",
+    "nama_cat":"Easy",
+    "judul":"Permohonan Baru BPN",
+    "image":"https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
+    "link":"https://zaupdate24.online/semakan/bpn/bpn3.html",
+    "deskripsi":"Permohonan baru / rayuan boleh dibuat di portal rasmi BPN bermula 1 April 2020."
   }
-
 ]
 }
