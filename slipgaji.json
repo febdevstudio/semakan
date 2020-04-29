@@ -1,0 +1,172 @@
+{
+  "Iklan": [
+    {
+      "status": "0",
+      "link": "",
+      "appid": "",
+      "admobappid": "ca-app-pub-3940256099942544~3347511713",
+      "interid": "ca-app-pub-3940256099942544/1033173712",
+      "nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "deskripsi_update": "",
+      "link_update": "",
+      "interval": 2,
+      "pengaturan_iklan": "",
+      "startappid": "",
+      "version_app": 1,
+      "fan_inter": "2530348427243901_2530362067242537",
+      "fan_banner_native": "2530348427243901_2530349057243838",
+      "fan_banner": "2530348427243901_2530349057243838",
+      "id_inmobi": "",
+      "inmobi_inter": 1234567789,
+      "inmobi_banner": 1321232131
+    }
+  ],
+  "More": [
+    {}
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Semakan",
+      "gambar": "https://zaupdate24.online/semakan/SEMAKCATEGORY.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "id_guide": "001",
+      "nama_cat": "Semakan",
+      "judul": "Semakan Penyata Gaji Online",
+      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
+      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji.html",
+      "deskripsi": "Penyata Gaji Online : Semakan Slip e-Penyata Gaji 2020"
+    },
+    {
+      "id": 2,
+      "id_guide": "002",
+      "nama_cat": "Semakan",
+      "judul": "Semakan Penyata Gaji Online",
+      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
+      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji2.html",
+      "deskripsi": "Penyata Gaji Online : JADUAL GAJI 2020 "
+    },
+    {
+      "id": 3,
+      "id_guide": "003",
+      "nama_cat": "Semakan",
+      "judul": "Semakan Penyata Gaji Online",
+      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
+      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji3.html",
+      "deskripsi": "Penyata Gaji Online : MANUAL SISTEM PENYATA GAJI 2020 "
+    },
+    {
+      "id": 4,
+      "id_guide": "004",
+      "nama_cat": "Semakan",
+      "judul": "Penyata Gaji Online : CARA MEMUAT TURUN PENYATA PENDAPATAN",
+      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
+      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji4.html",
+      "deskripsi": ""
+    },
+    {
+      "id": 5,
+      "id_guide": "005",
+      "nama_cat": "Semakan",
+      "judul": "Semakan BPN",
+      "image": "https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
+      "link": "https://zaupdate24.online/semakan/bpn/bpn.html",
+      "deskripsi": "Semakan BPN, Permohonan Baru / Rayuan Bantuan Prihatin Nasional"
+    },
+    {
+      "id": 6,
+      "id_guide": "006",
+      "nama_cat": "Semakan",
+      "judul": "Semakan BPN",
+      "image": "https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
+      "link": "https://zaupdate24.online/semakan/bpn/bpn2.html",
+      "deskripsi": "Secara asasnya BPN hanya untuk golongan B40 dan M40"
+    },
+    {
+      "id": 7,
+      "id_guide": "007",
+      "nama_cat": "Semakan",
+      "judul": "Permohonan Baru BPN",
+      "image": "https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
+      "link": "https://zaupdate24.online/semakan/bpn/bpn3.html",
+      "deskripsi": "Permohonan baru / rayuan boleh dibuat di portal rasmi BPN bermula 1 April 2020"
+    },
+    {
+      "id": 8,
+      "id_guide": "008",
+      "nama_cat": "Semakan",
+      "judul": "Semakan eKasih 2020",
+      "image": "https://zaupdate24.online/semakan/ekasih/semakanekasih.jpg",
+      "link": "https://zaupdate24.online/semakan/ekasih/ekasih.html",
+      "deskripsi": "eKasih adalah sistem Bank Data Kemiskinan Nasional yang"
+    },
+    {
+      "id": 9,
+      "id_guide": "009",
+      "nama_cat": "Semakan",
+      "judul": "Semakan eKasih : Syarat Kelayakan dan Pendaftaran",
+      "image": "https://zaupdate24.online/semakan/ekasih/semakanekasih.jpg",
+      "link": "https://zaupdate24.online/semakan/ekasih/ekasih2.html",
+      "deskripsi": ""
+    },
+    {
+      "id": 10,
+      "id_guide": "010",
+      "nama_cat": "Semakan",
+      "judul": "Semakan eKasih : Maklumat Yang Diperlukan",
+      "image": "https://zaupdate24.online/semakan/ekasih/semakanekasih.jpg",
+      "link": "https://zaupdate24.online/semakan/ekasih/ekasih3.html",
+      "deskripsi": ""
+    },
+    {
+      "id": 11,
+      "id_guide": "011",
+      "nama_cat": "Semakan",
+      "judul": "SSP BSN 2020: Semak Keputusan Sijil Simpanan Premium myBSN",
+      "image": "https://zaupdate24.online/semakan/ssp/semaksspbsn.jpg",
+      "link": "https://zaupdate24.online/semakan/ssp/sspbsn.html",
+      "deskripsi": ""
+    },
+    {
+      "id": 12,
+      "id_guide": "012",
+      "nama_cat": "Semakan",
+      "judul": "SSP BSN 2020: 6 Cara Menyimpan Dengan SSP BSN",
+      "image": "https://zaupdate24.online/semakan/ssp/semaksspbsn.jpg",
+      "link": "https://zaupdate24.online/semakan/ssp/sspbsn2.html",
+      "deskripsi": ""
+    },
+    {
+      "id": 13,
+      "id_guide": "013",
+      "nama_cat": "Semakan",
+      "judul": "SSP BSN 2020: Cara Semakan Pemenang & Maklumat Lanjut",
+      "image": "https://zaupdate24.online/semakan/ssp/semaksspbsn.jpg",
+      "link": "https://zaupdate24.online/semakan/ssp/sspbsn3.html",
+      "deskripsi": ""
+    },
+    {
+      "id": 14,
+      "id_guide": "014",
+      "nama_cat": "Semakan",
+      "judul": "INSPIRASIKU YAPEIM 2020",
+      "image": "https://zaupdate24.online/semakan/yapeim/yapeim1.jpg",
+      "link": "https://zaupdate24.online/semakan/yapeim/yapeim1.html",
+      "deskripsi": "Dana Inspirasi Malaysia (Inspirasiku) YaPEIM bagi tahun 2020"
+    },
+    {
+      "id": 15,
+      "id_guide": "015",
+      "nama_cat": "Semakan",
+      "judul": "PERMOHONAN DANA INSPIRASI MALAYSIA",
+      "image": "https://zaupdate24.online/semakan/yapeim/yapeim1.jpg",
+      "link": "https://zaupdate24.online/semakan/yapeim/yapeim2.html",
+      "deskripsi": "Bantuan ini tidak dihadkan untuk seorang anak sahaja"
+    }
+  ]
+}
