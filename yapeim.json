@@ -11,7 +11,7 @@
       "deskripsi_update": "",
       "link_update": "",
       "interval": 2,
-      "pengaturan_iklan": 1,
+      "pengaturan_iklan": "1",
       "startappid": "",
       "version_app": 1,
       "fan_inter": "2530348427243901_2530362067242537",
@@ -23,8 +23,25 @@
     }
   ],
   "More": [
-    {}
-  ],
+  {
+    "id":1,
+    "judul":"Semakan e-Kasih",
+    "image":"https://i.ibb.co/gJj6djG/semakekasih.png",
+    "link":"https://play.google.com/store/apps/details?id=com.newekasih.mysemak"
+  },
+  {
+    "id":2,
+    "judul":"Semakan Bantuan Prihatin Nasional",
+    "image":"https://i.ibb.co/bXJsGN9/semakbpn.png",
+    "link":"https://play.google.com/store/apps/details?id=com.semakan.bpnterbaru"
+  },
+  {
+    "id":3,
+    "judul":"Semakan SSP BSN",
+    "image":"https://i.ibb.co/ph5GGQG/semaksspbsn.png",
+    "link":"https://play.google.com/store/apps/details?id=com.mysemakbsn.terbaru"
+  }
+],
   "Categories": [
     {
       "id": 1,
