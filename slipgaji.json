@@ -37,50 +37,14 @@
       "id": 1,
       "id_guide": "001",
       "nama_cat": "Semakan",
-      "judul": "Semakan Penyata Gaji Online",
-      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
-      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji.html",
-      "deskripsi": "Penyata Gaji Online : Semakan Slip e-Penyata Gaji 2020"
-    },
-    {
-      "id": 2,
-      "id_guide": "002",
-      "nama_cat": "Semakan",
-      "judul": "Semakan Penyata Gaji Online",
-      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
-      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji2.html",
-      "deskripsi": "Penyata Gaji Online : JADUAL GAJI 2020 "
-    },
-    {
-      "id": 3,
-      "id_guide": "003",
-      "nama_cat": "Semakan",
-      "judul": "Semakan Penyata Gaji Online",
-      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
-      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji3.html",
-      "deskripsi": "Penyata Gaji Online : MANUAL SISTEM PENYATA GAJI 2020 "
-    },
-    {
-      "id": 4,
-      "id_guide": "004",
-      "nama_cat": "Semakan",
-      "judul": "Penyata Gaji Online : CARA MEMUAT TURUN PENYATA PENDAPATAN",
-      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
-      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji4.html",
-      "deskripsi": ""
-    },
-    {
-      "id": 5,
-      "id_guide": "005",
-      "nama_cat": "Semakan",
       "judul": "Semakan BPN",
       "image": "https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
       "link": "https://zaupdate24.online/semakan/bpn/bpn.html",
       "deskripsi": "Semakan BPN, Permohonan Baru / Rayuan Bantuan Prihatin Nasional"
     },
     {
-      "id": 6,
-      "id_guide": "006",
+      "id": 2,
+      "id_guide": "002",
       "nama_cat": "Semakan",
       "judul": "Semakan BPN",
       "image": "https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
@@ -88,8 +52,8 @@
       "deskripsi": "Secara asasnya BPN hanya untuk golongan B40 dan M40"
     },
     {
-      "id": 7,
-      "id_guide": "007",
+      "id": 3,
+      "id_guide": "003",
       "nama_cat": "Semakan",
       "judul": "Permohonan Baru BPN",
       "image": "https://zaupdate24.online/semakan/bpn/semakbpn.jpg",
@@ -97,8 +61,8 @@
       "deskripsi": "Permohonan baru / rayuan boleh dibuat di portal rasmi BPN bermula 1 April 2020"
     },
     {
-      "id": 8,
-      "id_guide": "008",
+      "id": 4,
+      "id_guide": "004",
       "nama_cat": "Semakan",
       "judul": "Semakan eKasih 2020",
       "image": "https://zaupdate24.online/semakan/ekasih/semakanekasih.jpg",
@@ -106,8 +70,8 @@
       "deskripsi": "eKasih adalah sistem Bank Data Kemiskinan Nasional yang"
     },
     {
-      "id": 9,
-      "id_guide": "009",
+      "id": 5,
+      "id_guide": "005",
       "nama_cat": "Semakan",
       "judul": "Semakan eKasih : Syarat Kelayakan dan Pendaftaran",
       "image": "https://zaupdate24.online/semakan/ekasih/semakanekasih.jpg",
@@ -115,8 +79,8 @@
       "deskripsi": ""
     },
     {
-      "id": 10,
-      "id_guide": "010",
+      "id": 6,
+      "id_guide": "006",
       "nama_cat": "Semakan",
       "judul": "Semakan eKasih : Maklumat Yang Diperlukan",
       "image": "https://zaupdate24.online/semakan/ekasih/semakanekasih.jpg",
@@ -124,8 +88,8 @@
       "deskripsi": ""
     },
     {
-      "id": 11,
-      "id_guide": "011",
+      "id": 7,
+      "id_guide": "007",
       "nama_cat": "Semakan",
       "judul": "SSP BSN 2020: Semak Keputusan Sijil Simpanan Premium myBSN",
       "image": "https://zaupdate24.online/semakan/ssp/semaksspbsn.jpg",
@@ -133,8 +97,8 @@
       "deskripsi": ""
     },
     {
-      "id": 12,
-      "id_guide": "012",
+      "id": 8,
+      "id_guide": "008",
       "nama_cat": "Semakan",
       "judul": "SSP BSN 2020: 6 Cara Menyimpan Dengan SSP BSN",
       "image": "https://zaupdate24.online/semakan/ssp/semaksspbsn.jpg",
@@ -142,8 +106,8 @@
       "deskripsi": ""
     },
     {
-      "id": 13,
-      "id_guide": "013",
+      "id": 9,
+      "id_guide": "009",
       "nama_cat": "Semakan",
       "judul": "SSP BSN 2020: Cara Semakan Pemenang & Maklumat Lanjut",
       "image": "https://zaupdate24.online/semakan/ssp/semaksspbsn.jpg",
@@ -151,8 +115,8 @@
       "deskripsi": ""
     },
     {
-      "id": 14,
-      "id_guide": "014",
+      "id": 10,
+      "id_guide": "010",
       "nama_cat": "Semakan",
       "judul": "INSPIRASIKU YAPEIM 2020",
       "image": "https://zaupdate24.online/semakan/yapeim/yapeim1.jpg",
@@ -160,13 +124,49 @@
       "deskripsi": "Dana Inspirasi Malaysia (Inspirasiku) YaPEIM bagi tahun 2020"
     },
     {
-      "id": 15,
-      "id_guide": "015",
+      "id": 11,
+      "id_guide": "011",
       "nama_cat": "Semakan",
       "judul": "PERMOHONAN DANA INSPIRASI MALAYSIA",
       "image": "https://zaupdate24.online/semakan/yapeim/yapeim1.jpg",
       "link": "https://zaupdate24.online/semakan/yapeim/yapeim2.html",
       "deskripsi": "Bantuan ini tidak dihadkan untuk seorang anak sahaja"
-    }
+    },
+    {
+      "id": 12,
+      "id_guide": "012",
+      "nama_cat": "Semakan",
+      "judul": "Semakan Penyata Gaji Online",
+      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
+      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji.html",
+      "deskripsi": "Penyata Gaji Online : Semakan Slip e-Penyata Gaji 2020"
+    },
+    {
+      "id": 13,
+      "id_guide": "013",
+      "nama_cat": "Semakan",
+      "judul": "Semakan Penyata Gaji Online",
+      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
+      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji2.html",
+      "deskripsi": "Penyata Gaji Online : JADUAL GAJI 2020 "
+    },
+    {
+      "id": 14,
+      "id_guide": "014",
+      "nama_cat": "Semakan",
+      "judul": "Semakan Penyata Gaji Online",
+      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
+      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji3.html",
+      "deskripsi": "Penyata Gaji Online : MANUAL SISTEM PENYATA GAJI 2020 "
+    },
+    {
+      "id": 15,
+      "id_guide": "015",
+      "nama_cat": "Semakan",
+      "judul": "Penyata Gaji Online : CARA MEMUAT TURUN PENYATA PENDAPATAN",
+      "image": "https://zaupdate24.online/semakan/slipgaji/headersemakgaji.jpg",
+      "link": "https://zaupdate24.online/semakan/slipgaji/slipgaji4.html",
+      "deskripsi": ""
+    },
   ]
 }
